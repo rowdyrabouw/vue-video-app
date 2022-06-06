@@ -1061,6 +1061,11 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
+"@rowdy.rabouw/video-component@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@rowdy.rabouw/video-component/-/video-component-1.0.0.tgz#28d354c193c753366d7fb3321f43c9204164d2d8"
+  integrity sha512-Q3yXAvn/dJtPu68D/EYQnboH82I1j3uP/kkbDxkThelB3CUf+86PmCwZZegAmIuxDSBNb3CVx180lsXsTzTj3g==
+
 "@sideway/address@^4.1.3":
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.4.tgz#03dccebc6ea47fdc226f7d3d1ad512955d4783f0"
