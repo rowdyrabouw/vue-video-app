@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <video-component youtube="Q0oeeI3daj4"></video-component>
+  <video-component youtube="J7Xpy9AuC-A"></video-component>
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
 
